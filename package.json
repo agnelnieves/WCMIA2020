@@ -1,0 +1,19 @@
+{
+  "name": "wcmia2020-styles",
+  "version": "1.0.0",
+  "description": "Styles used for WordcampMiami 2020 Conference website",
+  "main": "index.js",
+  "repository": "https://github.com/agnelnieves/WCMIA2020.git",
+  "author": "agnelnieves <agnelnieves@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "contributors": [
+    "Agnel Nieves"
+  ],
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}

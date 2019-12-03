@@ -1,0 +1,9 @@
+// --- This file contains the main styles of the project
+
+@import './partials/variables';
+@import './partials/mixins';
+@import './partials/typography';
+
+* {
+    box-sizing: border-box;
+}
