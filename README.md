@@ -65,3 +65,4 @@ Example:
 2. [Commit Styleguide](https://gist.github.com/agnelnieves/8008ef7ced0d277fca077a9163c85c5b)
 3. [WCMIA 2020](https://2020.miami.wordcamp.org/)
 4. [NodeSass](https://www.npmjs.com/package/node-sass)
+5. [Yarn](https://yarnpkg.com/en/docs/getting-started)
